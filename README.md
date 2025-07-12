@@ -36,6 +36,3 @@ An interactive and insightful analytical project on the **2024 Indian Election**
 ## 📷 Sample Dashboard
 <img width="1119" height="642" alt="Screenshot 2025-07-12 171842" src="https://github.com/user-attachments/assets/7749ac3b-6c5b-4622-89aa-019581dc3ef7" />
 
-
-## 🗂️ File Structure
-
